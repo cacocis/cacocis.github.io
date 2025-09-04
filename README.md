@@ -1,4 +1,3 @@
-# cacocis.github.io
 # Carlos Cordero Cisneros
 ### Técnico en Soporte IT | Especialista en Automatización y Troubleshooting
 
