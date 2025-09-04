@@ -1,7 +1,8 @@
 # Carlos Cordero Cisneros
 ### Técnico en Soporte IT | Especialista en Automatización y Troubleshooting
 
-¡Hola! Soy un técnico en soporte IT proactivo y orientado a soluciones. Mi experiencia incluye troubleshooting avanzado, automatización de procesos con scripts y mantenimiento de hardware y software en entornos Windows, Linux y Apple.
+¡Hola! Soy un técnico en soporte IT proactivo y orientado a soluciones.
+Mi experiencia incluye troubleshooting avanzado, automatización de procesos con scripts y mantenimiento de hardware y software en entornos Windows, Linux y Apple.
 
 ## 🛠️ Habilidades Técnicas
 - **Sistemas Operativos:** Windows, macOS
