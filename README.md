@@ -21,7 +21,7 @@
 ## 🚀 Mis Proyectos de Automatización
 
 He desarrollado scripts para optimizar tareas de mantenimiento. Puedes verlos y descargarlos aquí:
-[🔗 Ver mis scripts de automatización](https://github.com/cacocis/mis-scripts-automatizacion)
+[🔗 Ver mis scripts de automatización](https://github.com/cacocis/windows-maintenance-scripts)
 
 **⚡ Optimización de Procesos Administrativos**
 - Automaticé la limpieza de un documento extenso usando comandos de reemplazo en MS Word, reduciendo el tiempo de trabajo de horas a minutos.
