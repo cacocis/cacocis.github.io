@@ -17,6 +17,11 @@
 **🤖 Automatización de Mantenimiento de Parque Informático**
 - Desarrollé scripts en CMD para automatizar tareas de mantenimiento de software en un parque de +100 equipos.
 - **Resultado:** Multipliqué la productividad, permitiendo el mantenimiento completo de 3 equipos por día.
+- 
+## 🚀 Mis Proyectos de Automatización
+
+He desarrollado scripts para optimizar tareas de mantenimiento. Puedes verlos y descargarlos aquí:
+[🔗 Ver mis scripts de automatización](https://github.com/cacocis/mis-scripts-automatizacion)
 
 **⚡ Optimización de Procesos Administrativos**
 - Automaticé la limpieza de un documento extenso usando comandos de reemplazo en MS Word, reduciendo el tiempo de trabajo de horas a minutos.
