@@ -1,4 +1,4 @@
-# Carlos Cordero Cisneros
+# Carlos Corde
 ### Técnico en Soporte IT | Especialista en Automatización y Troubleshooting
 
 ¡Hola! Soy un técnico en soporte IT proactivo y orientado a soluciones.
