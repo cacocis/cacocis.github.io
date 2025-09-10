@@ -13,7 +13,7 @@ Mi experiencia incluye troubleshooting avanzado, automatización de procesos con
 
 ## 🚀 Proyectos Destacados
 
-### [🔗 Ver todos mis proyectos en mi Portfolio]([https://cacocis.github.io](https://github.com/cacocis/windows-maintenance-scripts))
+### [🔗 Ver todos mis proyectos en mi Portfolio](https://github.com/cacocis/windows-maintenance-scripts)
 
 **🤖 Automatización de Mantenimiento de Parque Informático**
 - Desarrollé scripts en CMD para automatizar tareas de mantenimiento de software en un parque de +100 equipos.
