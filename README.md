@@ -5,7 +5,7 @@
 Mi experiencia incluye troubleshooting avanzado, automatización de procesos con scripts y mantenimiento de hardware y software en entornos Windows, Linux y Apple.
 
 ## 🛠️ Habilidades Técnicas
-- **Sistemas Operativos:** Windows, macOS
+- **Sistemas Operativos:** Windows, macOS y Linux
 - **Mantenimiento:** Hardware, Software, Preventivo, Correctivo
 - **Automatización:** Scripting en CMD/Batch
 - **Herramientas:** Suite Microsoft Office, Wix, GitHub
